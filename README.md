@@ -18,6 +18,9 @@
 
 - [TypeScript](https://www.typescriptlang.org/)
 - [React](https://reactjs.org/)
+- [Styled Components](https://styled-components.com/)
+- [Unform](https://unform.dev/)
+- [Yup](https://github.com/jquense/yup)
 
 ### 🖥️ Como executar o projeto
 
